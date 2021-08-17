@@ -1,0 +1,12 @@
+Integrantes 
+Fernando José Ferreira Neto - 2018001665
+Giovany da Silva Santos - 2018007758
+
+Execução
+na pasta cliente
+- npm install 
+- ng serve
+
+na pasta servidor
+- npm install
+- npm start
